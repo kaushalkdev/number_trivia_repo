@@ -1,0 +1,1 @@
+ 2dartXhr=lib/features/number_trivia/domain/entities/number_trivia.dart

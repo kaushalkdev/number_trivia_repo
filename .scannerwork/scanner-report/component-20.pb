@@ -1,0 +1,1 @@
+ 2dartXhr$lib/generated_plugin_registrant.dart
